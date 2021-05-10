@@ -4,7 +4,8 @@ Dart is an open-source, general-purpose, object-oriented programming language wi
 
 
 [04/30] MaterialApp, Scaffold:
-        https://api.flutter.dev/flutter/material/MaterialApp-class.html
-        https://api.flutter.dev/flutter/material/Scaffold-class.html
+* https://api.flutter.dev/flutter/material/MaterialApp-class.html
+* https://api.flutter.dev/flutter/material/Scaffold-class.html
+
 [05/30] Container: 
-        https://api.flutter.dev/flutter/widgets/Container-class.html
+* https://api.flutter.dev/flutter/widgets/Container-class.html
