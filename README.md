@@ -9,3 +9,7 @@ Dart is an open-source, general-purpose, object-oriented programming language wi
 
 [05/30] Container: 
 * https://api.flutter.dev/flutter/widgets/Container-class.html
+
+[06/30] Row and Columns
+* https://api.flutter.dev/flutter/widgets/Row-class.html
+* https://api.flutter.dev/flutter/widgets/Column-class.html
