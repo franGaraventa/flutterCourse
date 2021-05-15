@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_course/src/text_and_textfield.dart';
 import 'package:flutter_course/utils/Strings.dart';
 import 'package:flutter_course/utils/dimension.dart';
 
@@ -19,28 +20,7 @@ class _MyAppState extends State<MyApp> {
           title: Text(appBarTitle),
         ),
         body: Center(
-            child: Container(
-          height: Dimension.containerHeight,
-          width: Dimension.containerWidth,
-          margin: EdgeInsets.all(Dimension.containerMargin),
-          padding: EdgeInsets.all(Dimension.containerPadding),
-          decoration: BoxDecoration(
-              border: Border.all(
-                  width: Dimension.containerBoxDecorationBorder,
-                  color: Colors.black),
-              color: Colors.blueAccent.shade200,
-              borderRadius: BorderRadius.circular(
-                  Dimension.containerBoxDecorationBorderRadius),
-              boxShadow: [
-                BoxShadow(
-                    color: Colors.blueGrey,
-                    offset: Offset(
-                        Dimension.containerBoxDecorationBoxShadowOffset,
-                        Dimension.containerBoxDecorationBoxShadowOffset))
-              ]),
-          child: Text("Text into Container"),
-          transform: Matrix4.rotationZ(Dimension.containerTransformRotationZ),
-        )),
+            child: TextAndTextField()),
       ),
     );
   }
