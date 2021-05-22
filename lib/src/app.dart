@@ -1,9 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_course/src/stack_widget.dart';
+import 'package:flutter_course/src/form_widget.dart';
 import 'package:flutter_course/utils/Strings.dart';
-
-import 'buttons.dart';
 
 class MyApp extends StatefulWidget {
   @override
@@ -17,12 +15,10 @@ class _MyAppState extends State<MyApp> {
       title: appTitle,
       theme: ThemeData(primaryColor: Colors.blueAccent),
       home: Scaffold(
-        appBar: AppBar(
-          title: Text(appBarTitle),
-        ),
-        body: Center(
-            child: StackWidget()),
-      ),
+          appBar: AppBar(
+            title: Text(appBarTitle),
+          ),
+          body: FormWidget()),
     );
   }
 }
