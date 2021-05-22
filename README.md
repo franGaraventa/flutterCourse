@@ -16,3 +16,14 @@ Dart is an open-source, general-purpose, object-oriented programming language wi
 [07/30] Text and TextSpans
 * https://api.flutter.dev/flutter/dart-html/Text-class.html
 * https://api.flutter.dev/flutter/painting/TextSpan-class.html
+
+[09/30] Buttons
+Flat Button (Deprecated) - Used TextButton instead
+* https://api.flutter.dev/flutter/material/TextButton-class.html
+Raised Button (Deprecated) - Used ElevatedButton instead
+* https://api.flutter.dev/flutter/material/ElevatedButton-class.html
+Floating Action Button
+* https://api.flutter.dev/flutter/material/FloatingActionButton-class.html
+
+[10/30] Stack
+*

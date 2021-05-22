@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_course/src/text_and_textfield.dart';
 import 'package:flutter_course/utils/Strings.dart';
-import 'package:flutter_course/utils/dimension.dart';
+
+import 'buttons.dart';
 
 class MyApp extends StatefulWidget {
   @override
@@ -20,7 +20,7 @@ class _MyAppState extends State<MyApp> {
           title: Text(appBarTitle),
         ),
         body: Center(
-            child: TextAndTextField()),
+            child: Buttons()),
       ),
     );
   }
