@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_course/src/stack_widget.dart';
 import 'package:flutter_course/utils/Strings.dart';
 
 import 'buttons.dart';
@@ -20,7 +21,7 @@ class _MyAppState extends State<MyApp> {
           title: Text(appBarTitle),
         ),
         body: Center(
-            child: Buttons()),
+            child: StackWidget()),
       ),
     );
   }
