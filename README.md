@@ -33,3 +33,9 @@ Floating Action Button
 [11/30] Form
 * https://flutter.dev/docs/cookbook/forms
 * https://flutter.dev/docs/cookbook/forms/validation
+
+[12/30] Icons
+* https://api.flutter.dev/flutter/material/Icons-class.html
+
+[13/30] Images
+* https://flutter.dev/docs/development/ui/assets-and-images

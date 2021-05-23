@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_course/src/form_widget.dart';
+import 'package:flutter_course/src/images.dart';
 import 'package:flutter_course/utils/Strings.dart';
 
 class MyApp extends StatefulWidget {
@@ -18,7 +18,12 @@ class _MyAppState extends State<MyApp> {
           appBar: AppBar(
             title: Text(appBarTitle),
           ),
-          body: FormWidget()),
+          body: AssetImageWidget(
+            imageFromNetwork: true,
+            imageRoute:
+                "https://i.pinimg.com/originals/f7/10/29/f710295f235f9b1701d8a65e42eebeba.png",
+            imageWidth: 400,
+          )),
     );
   }
 }
