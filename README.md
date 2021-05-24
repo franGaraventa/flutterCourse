@@ -54,3 +54,7 @@ Floating Action Button
 [17/30] List
 * https://api.flutter.dev/flutter/widgets/ListView-class.html
 * https://flutter.dev/docs/cookbook/lists/long-lists
+
+[19/30] GridView and Toast
+* https://api.flutter.dev/flutter/widgets/GridView-class.html
+* https://flutter.dev/docs/cookbook/lists/grid-lists
