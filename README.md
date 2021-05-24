@@ -50,3 +50,7 @@ Floating Action Button
 
 [16/30] Alert Dialog
 * https://api.flutter.dev/flutter/material/AlertDialog-class.html
+
+[17/30] List
+* https://api.flutter.dev/flutter/widgets/ListView-class.html
+* https://flutter.dev/docs/cookbook/lists/long-lists
