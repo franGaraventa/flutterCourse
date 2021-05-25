@@ -19,7 +19,7 @@ class _MyAppState extends State<MyApp> {
           appBar: AppBar(
             title: Text(appBarTitle),
           ),
-          body: GridView()),
+          body: GridViewWidget()),
     );
   }
 }

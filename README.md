@@ -58,3 +58,9 @@ Floating Action Button
 [19/30] GridView and Toast
 * https://api.flutter.dev/flutter/widgets/GridView-class.html
 * https://flutter.dev/docs/cookbook/lists/grid-lists
+
+[20/30] CheckBox and Radio Button
+* https://api.flutter.dev/flutter/material/Checkbox-class.html
+* https://api.flutter.dev/flutter/material/CheckboxListTile-class.html
+* https://api.flutter.dev/flutter/material/Checkbox/onChanged.html
+* https://api.flutter.dev/flutter/material/RadioListTile-class.html
