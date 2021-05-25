@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_course/src/checkbox_radio_button.dart';
+import 'package:flutter_course/src/app.dart';
 
 void main() {
-  runApp(CheckBoxAndRadioButton());
+  runApp(MyApp());
 }

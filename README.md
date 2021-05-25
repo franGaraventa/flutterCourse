@@ -64,3 +64,11 @@ Floating Action Button
 * https://api.flutter.dev/flutter/material/CheckboxListTile-class.html
 * https://api.flutter.dev/flutter/material/Checkbox/onChanged.html
 * https://api.flutter.dev/flutter/material/RadioListTile-class.html
+
+[21/30] ProgressBar and SnackBar
+* https://api.flutter.dev/flutter/material/LinearProgressIndicator-class.html
+* https://api.flutter.dev/flutter/material/CircularProgressIndicator-class.html
+* https://flutter.dev/docs/cookbook/design/snackbars
+* https://api.flutter.dev/flutter/material/SnackBar-class.html
+* https://api.flutter.dev/flutter/material/ButtonStyle-class.html Used in SnackBarWidget
+
