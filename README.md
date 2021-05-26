@@ -83,3 +83,5 @@ Floating Action Button
 [24/30] Calendar
 * https://pub.dev/packages/table_calendar
 
+[25/30] NavigationRoute
+* https://flutter.dev/docs/cookbook/navigation/named-routes

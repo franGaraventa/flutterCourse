@@ -27,7 +27,7 @@ class _CalendarWidgetState extends State<CalendarWidget> {
             onDaySelected: (selectedDay, focusedDay) {
               setState(() {
                 _selectedDay = selectedDay;
-                _focusedDay = focusedDay; 
+                _focusedDay = focusedDay;
               });
             })
       ],
