@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_course/src/widgets/slider_widget.dart';
+import 'package:flutter_course/src/widgets/calendar_widget.dart';
 import 'package:flutter_course/utils/Strings.dart';
 
 class MyApp extends StatefulWidget {
@@ -19,7 +19,7 @@ class _MyAppState extends State<MyApp> {
           appBar: AppBar(
             title: Text(appBarTitle),
           ),
-          body: SliderWidget()),
+          body: CalendarWidget()),
     );
   }
 }

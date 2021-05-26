@@ -75,3 +75,11 @@ Floating Action Button
 [22/30] Tooltip and Slider
 * https://api.flutter.dev/flutter/material/Tooltip-class.html
 * https://api.flutter.dev/flutter/material/Slider-class.html
+
+[23/30] Switch and Table
+* https://api.flutter.dev/flutter/material/Switch-class.html
+* https://api.flutter.dev/flutter/widgets/Table-class.html
+
+[24/30] Calendar
+* https://pub.dev/packages/table_calendar
+
