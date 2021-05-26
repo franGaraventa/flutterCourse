@@ -72,3 +72,6 @@ Floating Action Button
 * https://api.flutter.dev/flutter/material/SnackBar-class.html
 * https://api.flutter.dev/flutter/material/ButtonStyle-class.html Used in SnackBarWidget
 
+[22/30] Tooltip and Slider
+* https://api.flutter.dev/flutter/material/Tooltip-class.html
+* https://api.flutter.dev/flutter/material/Slider-class.html
